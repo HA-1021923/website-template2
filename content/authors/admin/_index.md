@@ -11,6 +11,16 @@ social:
     link: https://www.linkedin.com/in/hina-a-692986a0
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: true
+    link: https://github.com/HinaArora
+    icon_pack: fab
+    icon: github
+  - display:
+      header: true
+    link: hinaa@uci.edu
+    icon_pack: fab
+    icon: envelope
 organizations:
   - name: University of California, Irvine
     url: https://www.uci.edu/
