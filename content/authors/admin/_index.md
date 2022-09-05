@@ -1,6 +1,6 @@
 ---
 title: Hina Arora
-role: PhD candidate, Statistics at UC Irvine
+role: PhD candidate, Statistics
 avatar_filename: hina-arora1-2-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Irvine
+    url: https://www.uci.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
