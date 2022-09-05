@@ -18,7 +18,7 @@ social:
     icon: github
   - display:
       header: true
-    link: "mailto: hinaa@uci.edu"
+    link: mailto:hinaa@uci.edu
     icon_pack: fas
     icon: envelope
 organizations:
