@@ -1,21 +1,13 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: about
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: hina-arora1.jpg
 ---
+I am a Statistics PhD candidate at University of California, Irvine. My thesis projects are related to forensic statistics, dimensionality reduction techniques for DNA methylation data, More broadly, I am interested in statistical learning/ machine learning methods, Bayesian non-parametrics, and computational methods. I work with Prof. Hal Stern and Dr. Naomi Kaplan-Damary for my thesis projects. Additionally, I have research collaborations with [CSAFE](https://forensicstats.org/) and [Conte Center at UC Irvine](https://contecenter.uci.edu/).
