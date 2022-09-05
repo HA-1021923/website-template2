@@ -10,7 +10,7 @@ social:
       header: true
     link: https://www.linkedin.com/in/hina-a-692986a0
     icon_pack: fab
-    icon: fa-linkedin
+    icon: linkedin
 organizations:
   - name: University of California, Irvine
     url: https://www.uci.edu/
