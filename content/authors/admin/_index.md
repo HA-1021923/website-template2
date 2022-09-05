@@ -1,7 +1,7 @@
 ---
 title: Hina Arora
 role: PhD candidate, Statistics at UC Irvine
-avatar_filename: hina-arora.jpg
+avatar_filename: hina-arora1-2-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
