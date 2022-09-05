@@ -10,13 +10,13 @@ interests:
   - Information Retrieval
 social:
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/hina-a-692986a0/
     icon_pack: ai
     label: ""
     icon: LinkedIn
   - display:
-      header: false
+      header: true
     link: https://github.com/HinaArora
     icon_pack: ai
     icon: GitHub
