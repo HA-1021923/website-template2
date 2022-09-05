@@ -18,8 +18,8 @@ social:
     icon: github
   - display:
       header: true
-    link: hinaa@uci.edu
-    icon_pack: fab
+    link: "mailto: hinaa@uci.edu"
+    icon_pack: fas
     icon: envelope
 organizations:
   - name: University of California, Irvine
