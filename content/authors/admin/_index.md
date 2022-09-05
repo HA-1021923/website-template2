@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: My research interests include forensic statistics, statistical genomics,
   and statistical learning.
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/hina-a-692986a0
+    icon_pack: fab
+    icon: fa-linkedin
 organizations:
   - name: University of California, Irvine
     url: https://www.uci.edu/
