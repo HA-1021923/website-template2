@@ -7,7 +7,7 @@ bio: My research interests include forensic statistics, statistical genomics,
 interests: []
 social:
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/hina-a-692986a0
     icon_pack: fab
     icon: fa-linkedin
