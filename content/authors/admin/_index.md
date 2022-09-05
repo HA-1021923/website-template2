@@ -1,7 +1,7 @@
 ---
 title: Hina Arora
 role: PhD candidate, Statistics
-avatar_filename: hina-arora1-2-.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
