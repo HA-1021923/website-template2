@@ -9,35 +9,28 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/hina-a-692986a0/
+    icon_pack: ai
+    label: ""
+    icon: LinkedIn
+  - display:
+      header: false
+    link: https://github.com/HinaArora
+    icon_pack: ai
+    icon: GitHub
 organizations:
   - name: University of California, Irvine
     url: https://www.uci.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD, Statistics
+      institution: University of California, Irvine
+    - course: MS, Applied Math and Statistics
+      institution: Stony Brook University, NY
+    - course: B Tech, Electrical Engineering
+      institution: Indian Institute of Technology, Indore
 email: ""
 superuser: true
 highlight_name: true
