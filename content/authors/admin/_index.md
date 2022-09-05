@@ -2,8 +2,8 @@
 title: Hina Arora
 role: PhD candidate, Statistics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include forensic statistics, statistical genomics,
+  and statistical learning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
