@@ -1,7 +1,7 @@
 ---
 title: Hina Arora
 role: PhD candidate, Statistics
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include forensic statistics, statistical genomics,
   and statistical learning.
 interests: []
